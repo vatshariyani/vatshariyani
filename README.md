@@ -78,6 +78,8 @@ class VatsHariyani:
 <div align="center">
 
 ### 🔒 Security Tools
+[![CloudHawk](https://github-readme-stats.vercel.app/api/pin/?username=vatshariyani&repo=CloudHawk&theme=tokyonight&hide_border=true)](https://github.com/vatshariyani/CloudHawk)
+[![CipherChatIRC](https://github-readme-stats.vercel.app/api/pin/?username=vatshariyani&repo=CipherChatIRC&theme=tokyonight&hide_border=true)](https://github.com/vatshariyani/CipherChatIRC)
 [![Epic-Shelter](https://github-readme-stats.vercel.app/api/pin/?username=vatshariyani&repo=Epic-Shelter&theme=tokyonight&hide_border=true)](https://github.com/vatshariyani/Epic-Shelter)
 [![owasp-cmdline-injection-grep](https://github-readme-stats.vercel.app/api/pin/?username=vatshariyani&repo=owasp-cmdline-injection-grep&theme=tokyonight&hide_border=true)](https://github.com/vatshariyani/owasp-cmdline-injection-grep)
 
