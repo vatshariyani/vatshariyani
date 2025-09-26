@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github.com/vatshariyani/vatshariyani/assets/your-username/header.svg" alt="Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Vats%20Hariyani&fontSize=50&fontAlignY=35&desc=Cybersecurity%20Enthusiast%20%26%20Developer&descAlignY=55&descAlign=center" alt="Header" width="100%"/>
 </div>
 
 ---
@@ -227,5 +227,5 @@ for skill, start_date in skills_experience.items():
 ---
 
 <div align="center">
-  <img src="https://github.com/vatshariyani/vatshariyani/assets/your-username/footer.svg" alt="Footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" width="100%"/>
 </div>
