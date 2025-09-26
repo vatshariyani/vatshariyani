@@ -172,7 +172,7 @@ for skill, start_date in skills_experience.items():
     print(f"• {skill}: {experience}")
 ```
 
-**Current Experience (Auto-calculated):**
+**Current Experience:**
 - 🐍 **Python**: 3+ years (Started: Jan 2021)
 - 🔒 **Cybersecurity**: 2+ years (Started: Mar 2022)
 - 📱 **Kotlin**: 1+ year (Started: Jan 2023)
@@ -182,7 +182,7 @@ for skill, start_date in skills_experience.items():
 
 ---
 
-## 🎯 Goals for 2024
+## 🎯 Goals for 2026
 
 - [ ] 🏆 Achieve top 1% in bug bounty programs
 - [ ] 📚 Complete advanced cybersecurity certifications
