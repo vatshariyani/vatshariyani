@@ -9,15 +9,15 @@
   ╚═══╝  ╚═╝  ╚═╝   ╚═╝   ╚══════╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=1200&color=00FF41&center=true&vCenter=true&width=700&lines=%5BROOT%40vatshariyani%5D+~+%2F+%24+whoami;Cybersecurity+Enthusiast+%7C+Ethical+Hacker;Python+Developer+%7C+VIT+Chennai;Research+Author+%7C+Bug+Bounty+Hunter;Open+Source+Contributor+%7C+OSINT+Researcher" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=1200&color=00FF41&center=true&vCenter=true&width=700&lines=%5BROOT%40vatshariyani%5D+~+%2F+%24+whoami;Cybersecurity+Enthusiast+%7C+Ethical+Hacker;CEH+Certified+%7C+Bug+Bounty+Hunter;Python+Developer+%7C+VIT+Chennai;Research+Author+%7C+OSINT+Researcher;Open+Source+Contributor+%F0%9F%94%92" alt="Typing SVG" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/-%2300FF41?style=flat-square&logo=linkedin&logoColor=0a0a0a)](https://linkedin.com/in/vatshariyani)
-[![GitHub](https://img.shields.io/badge/-GitHub-%2300FF41?style=flat-square&logo=github&logoColor=0a0a0a)](https://github.com/vatshariyani)
-[![Instagram](https://img.shields.io/badge/-Instagram-%2300FF41?style=flat-square&logo=instagram&logoColor=0a0a0a)](https://instagram.com/_vats_hariyani)
-[![Email](https://img.shields.io/badge/-Email-%2300FF41?style=flat-square&logo=gmail&logoColor=0a0a0a)](mailto:vathariyani16@gmail.com)
-[![ResearchGate](https://img.shields.io/badge/-ResearchGate-%2300FF41?style=flat-square&logo=researchgate&logoColor=0a0a0a)](https://www.researchgate.net/publication/391622170)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%2300FF41?style=flat-square&logo=linkedin&logoColor=0a0a0a)](https://www.linkedin.com/in/vatshariyani)
+[![GitHub](https://img.shields.io/badge/GitHub-%2300FF41?style=flat-square&logo=github&logoColor=0a0a0a)](https://github.com/vatshariyani)
+[![Instagram](https://img.shields.io/badge/Instagram-%2300FF41?style=flat-square&logo=instagram&logoColor=0a0a0a)](https://instagram.com/_vats_hariyani)
+[![Email](https://img.shields.io/badge/Gmail-%2300FF41?style=flat-square&logo=gmail&logoColor=0a0a0a)](mailto:vathariyani16@gmail.com)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-%2300FF41?style=flat-square&logo=researchgate&logoColor=0a0a0a)](https://www.researchgate.net/publication/391622170)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vatshariyani&label=PROFILE+VIEWS&color=00FF41&style=flat-square)
 
@@ -41,6 +41,7 @@ class VatsHariyani:
         self.location    = "India 🇮🇳"
 
         self.identity = [
+            "CEH — Certified Ethical Hacker",
             "Cybersecurity Researcher",
             "Ethical Hacker & Bug Bounty Hunter",
             "Python Developer",
@@ -211,7 +212,7 @@ class VatsHariyani:
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vatshariyani&theme=chartreuse-dark&hide_border=true&background=0a0a0a&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=00FF41" />
+<img src="https://streak-stats.demolab.com/?user=vatshariyani&theme=dark&hide_border=true&background=0a0a0a&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=00FF41" />
 
 </div>
 
@@ -231,11 +232,37 @@ class VatsHariyani:
 
 ---
 
+## `> cat /etc/certifications`
+
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  🏅  CERTIFICATIONS                                                          │
+│─────────────────────────────────────────────────────────────────────────────│
+│                                                                              │
+│  ✅  Certified Ethical Hacker (CEH)                                          │
+│      Issued by  : EC-Council                                                 │
+│      Domain     : Ethical Hacking / Offensive Security                       │
+│      Status     : CERTIFIED                                                  │
+│                                                                              │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
+
+<div align="center">
+
+![CEH](https://img.shields.io/badge/CEH-Certified_Ethical_Hacker-0a0a0a?style=for-the-badge&logo=ec-council&logoColor=00FF41)
+![EC-Council](https://img.shields.io/badge/EC--Council-0a0a0a?style=for-the-badge&logoColor=00FF41)
+
+</div>
+
+---
+
 ## `> tail -f /var/log/goals_2026.log`
 
 ```bash
+[DONE]  ✅  Earned CEH — Certified Ethical Hacker (EC-Council)
+[DONE]  ✅  Published security research paper on IRC Encryption
 [INFO]  🏆  Crack top 1% rankings on bug bounty platforms (HackerOne / Bugcrowd)
-[INFO]  📜  Earn CEH / OSCP or equivalent certification
+[INFO]  📜  Pursue OSCP certification
 [INFO]  🔬  Publish another security research paper
 [INFO]  🚀  Ship a standalone, community-used security tool
 [INFO]  🌍  Make meaningful contributions to major OSS security projects
@@ -250,7 +277,7 @@ class VatsHariyani:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://linkedin.com/in/vatshariyani)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://www.linkedin.com/in/vatshariyani)
 [![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/vatshariyani)
 [![Instagram](https://img.shields.io/badge/Instagram-0a0a0a?style=for-the-badge&logo=instagram&logoColor=00FF41)](https://instagram.com/_vats_hariyani)
 [![Gmail](https://img.shields.io/badge/Gmail-0a0a0a?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:vathariyani16@gmail.com)
