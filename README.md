@@ -180,21 +180,21 @@ class VatsHariyani:
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
-│  📄  PUBLICATION                                                             │
+│  📄  PUBLICATION                                                            │
 │─────────────────────────────────────────────────────────────────────────────│
-│  "Securing Conversations: The Role of Encryption in IRC Communication"       │
-│                                                                              │
+│  "Securing Conversations: The Role of Encryption in IRC Communication"      │
+│                                                                             │
 │  Authors   : Vats Hariyani, Mihika Thigale                                  │
-│  Mentor    : Dr. Sharmiladevi S (Asst. Professor, VIT Chennai)               │
-│  Domain    : Network Security / Applied Cryptography                         │
-│  Status    : Published ✅                                                    │
-│                                                                              │
-│  My Contribution:                                                            │
-│  ▸ Implemented Diffie-Hellman key exchange for secure key distribution       │
+│  Mentor    : Dr. Sharmiladevi S (Asst. Professor, VIT Chennai)              │
+│  Domain    : Network Security / Applied Cryptography                        │
+│  Status    : Published ✅                                                   │
+│                                                                             │
+│  My Contribution:                                                           │
+│  ▸ Implemented Diffie-Hellman key exchange for secure key distribution      │
 │  ▸ Integrated AES encryption for end-to-end message confidentiality         │
-│  ▸ Prepared architecture figures, schematics & literature survey             │
-│                                                                              │
-│  ▸ Read on ResearchGate → https://www.researchgate.net/publication/391622170 │
+│  ▸ Prepared architecture figures, schematics & literature survey            │
+│                                                                             │
+│  ▸ Read on ResearchGate → https://www.researchgate.net/publication/391622170│
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -238,14 +238,14 @@ class VatsHariyani:
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
-│  🏅  CERTIFICATIONS                                                          │
+│  🏅  CERTIFICATIONS                                                         │
 │─────────────────────────────────────────────────────────────────────────────│
-│                                                                              │
-│  ✅  Certified Ethical Hacker (CEH)                                          │
-│      Issued by  : EC-Council                                                 │
-│      Domain     : Ethical Hacking / Offensive Security                       │
-│      Status     : CERTIFIED                                                  │
-│                                                                              │
+│                                                                             │
+│  ✅  Certified Ethical Hacker (CEH)                                         │
+│      Issued by  : EC-Council                                                │
+│      Domain     : Ethical Hacking / Offensive Security                      │
+│      Status     : CERTIFIED                                                 │
+│                                                                             │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
