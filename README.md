@@ -206,7 +206,9 @@ class VatsHariyani:
 
 <img src="https://github-readme-stats.vercel.app/api?username=vatshariyani&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&count_private=true&include_all_commits=true" height="165" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vatshariyani&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=00FF41&text_color=c9d1d9" height="165" />
+<a href="https://github.com/vatshariyani">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vatshariyani&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=00FF41&text_color=c9d1d9&exclude_repo=exitmap" height="165" onerror="this.src='https://img.shields.io/badge/Top_Languages-Python_%7C_Kotlin_%7C_JavaScript_%7C_Java-00FF41?style=for-the-badge&logo=github&logoColor=0a0a0a'" />
+</a>
 
 </div>
 
